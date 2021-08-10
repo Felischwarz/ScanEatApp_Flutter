@@ -1,16 +1,6 @@
-# ScanEatApp
+# ScanEatApp_Flutter
+This is a mobile app used to get information about products in your fridge such as which products are missing and need to be bought, which products are close to their best before date and a lot more.
+The app is developed for iOS & Android developed with the flutter framework and intended to use with a suitable configured Raspberry Pi which tracks the products coming into the fridge by its EAN codes.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has been developed as part of the "Digitechnikum" ([learn more] (https://digitechnikum.de/)) in a group of four students.
+You can find an older version of the app [here] (https://github.com/MartinRouterKing64/ScanEatApp_Xamarin)
