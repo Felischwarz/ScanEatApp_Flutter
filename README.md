@@ -3,4 +3,4 @@ This is a mobile app used to get information about products in your fridge such 
 The app is developed for iOS & Android developed with the flutter framework and intended to use with a suitable configured Raspberry Pi which tracks the products coming into the fridge by its EAN codes.
 
 This project has been developed as part of the "Digitechnikum" ([learn more](https://digitechnikum.de/)) in a group of four students.
-You can find an older version of the app [here](https://github.com/MartinRouterKing64/ScanEatApp_Xamarin)
+You can find an older version of the app [here](https://github.com/Felischwarz/ScanEatApp_Xamarin)
